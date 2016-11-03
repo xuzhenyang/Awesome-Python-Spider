@@ -82,6 +82,7 @@ def getCookie(username, password):
 
 def main():
     username = raw_input('username: ')
+    password = raw_input('password: ')
     print getCookie(username, password)
 
 if __name__ == "__main__":

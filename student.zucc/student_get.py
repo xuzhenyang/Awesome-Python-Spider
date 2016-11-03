@@ -16,7 +16,7 @@ def spider():
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
         'Accept-Encoding': 'gzip, deflate, sdch, br',
         'Accept-Language': 'zh-CN,zh;q=0.8',
-        'Cookie': 'JSESSIONID=0000tNym9mN7X6c00-yGuyCpPxA:184lrsfjg',
+        'Cookie': 'JSESSIONID=0000xXKTrRTjHqEuxN5lXh7AcNG:184lrsgm2',
     }
     url_1 = 'http://student.zucc.edu.cn/index.portal'
     r1 = requests.get(url_1, headers = headers_1)
